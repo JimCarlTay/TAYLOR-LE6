@@ -664,11 +664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James\\source\\repos\\TaylorLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\James\\source\\repos\\TAYLORLE4\\TaylorLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "projectName": "BlogDataLibrary",
-      "projectPath": "C:\\Users\\James\\source\\repos\\TaylorLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectPath": "C:\\Users\\James\\source\\repos\\TAYLORLE4\\TaylorLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James\\source\\repos\\TaylorLE2\\BlogDataLibrary\\obj\\",
+      "outputPath": "C:\\Users\\James\\source\\repos\\TAYLORLE4\\TaylorLE2\\BlogDataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",

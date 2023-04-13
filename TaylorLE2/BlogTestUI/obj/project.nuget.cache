@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b3UB4Lr1IxOwQQqCme4zo+Pw3yuNWzyCoEJ590reXJ1YfBx/Ia6ZLjAEmXqcwhNxuHhURDpAd3hNBnv8TSGZLQ==",
+  "dgSpecHash": "CBKENEM1bSfvZwrYXEyyF9zKL1vGi2YNuxuH+OmWOra18cSpcE6Qjrow6NYAdaVBK99sZUgKOc/ZqPE9wAEnxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\James\\source\\repos\\TaylorLE2\\BlogTestUI\\BlogTestUI.csproj",
+  "projectFilePath": "C:\\Users\\James\\source\\repos\\TAYLORLE4\\TaylorLE2\\BlogTestUI\\BlogTestUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

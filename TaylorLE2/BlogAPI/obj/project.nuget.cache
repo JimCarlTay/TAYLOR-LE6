@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWpF1LKcMqSOEuo69CqH94rJxKDQEzOhqcGhfarYwd1Jp2cHxGRAAp+mU6/Zq4eaWVKXpxkBbsv/bTT0U/c9eQ==",
+  "dgSpecHash": "s3oBztmIixeN77yBN+U7fLZaCHJYkZFi8HR/r4+gilvUqJHS+LlmG7bONQhTNmvRyESYw8M0umxHQdMs+H91ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\James\\source\\repos\\TaylorLE2\\BlogAPI\\BlogAPI.csproj",
+  "projectFilePath": "C:\\Users\\James\\source\\repos\\TAYLORLE4\\TaylorLE2\\BlogAPI\\BlogAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.1\\microsoft.aspnetcore.authentication.jwtbearer.6.0.1.nupkg.sha512",
